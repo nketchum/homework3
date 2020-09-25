@@ -57,21 +57,23 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
   text-transform: uppercase;
+  vertical-align: middle;
+  text-align: center;
 }
 
 .rowhead{
-  border-top: 3px solid #000000;
-  border-right: 3px solid #000000;
+  border-top: 2px solid #000000;
+  border-right: 2px solid #000000;
   vertical-align: middle;
 }
 
 td{
-  border-top: 3px solid #000000;
+  border-top: 2px solid #000000;
   text-align: center;
   padding: 10px;
 }
